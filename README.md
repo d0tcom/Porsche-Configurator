@@ -1,24 +1,8 @@
-# porsche_configurator_projet
+# :car: Porsche Configurator
+Simple page qui permet de commander une voiture, de récapituler la commande et de la confirmer.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies utilisées
+* HTML / CSS
+* Javascript
+* VueJS
+* Vue Router
